@@ -1,0 +1,149 @@
+
+body{
+    background-color: rgb(32, 11, 33);
+
+}
+h2{
+    background-color: rgb(71, 22, 78);
+    height: 70px;
+}
+a{ 
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 25px;
+
+    padding-bottom: 35px;
+}
+h1{
+    color: rgb(247, 243, 245);
+    text-shadow: 0cqh;
+   font: 3.5em sans-serif;
+   padding-left: 100px;
+   margin: 0;
+   ;
+   
+}
+    
+
+#img1{
+    
+    height :950px;
+    width:75%;
+    float: right;
+    position: relative;
+    margin: 0 0 10px 10px;
+     padding-left: 15px;
+      padding-top: 0px;
+     padding-bottom: 25px"
+
+}
+#img2{
+    width: 23%;
+
+    
+
+}
+#h3{ font: 3em sans-serif;;
+    color: rgb(94, 230, 31);
+    background-color: rgb(37, 6, 37);
+    padding-left: 30px;
+ 
+   
+    
+}
+#h2{
+    padding-left: 20px;
+}
+#img3{
+    width: 23%;
+
+}
+#h5{
+    background-color: rgb(88, 71, 88);
+}
+#body2{
+    padding: 30px;
+    p{
+        font-size: larger;
+       
+        color: #ffffff;
+    }
+    h1{
+        color: #79e262;
+    }
+    
+    h2{
+        height: 50px;
+        color: #34d026;
+       background-color: rgb(65, 10, 61);
+    };
+   
+    background-color:rgb(67, 11, 62);
+}
+#menuimg1{
+    height :950px;
+    width:75%;
+    float: right;
+    position: relative;
+    margin: 0 0 10px 10px;
+     padding-left: 15px;
+      padding-top: 0px;
+     padding-bottom: 25px"
+}
+#resBody{
+    background-color: rgb(77, 4, 4);
+}
+#form{
+    background-color: rgb(255, 255, 255);
+}
+#resform{background-color: rgb(102, 35, 35);
+    color: #ffffff;
+    font-size: larger;
+
+}
+#reservImg{
+    height :750px;
+    width:75%;
+    float: right;
+    position: relative;
+    margin: 0 0 10px 10px;
+     padding-left: 15px;
+      padding-top: 0px;
+     padding-bottom: 25px"
+}
+#conImg{
+    height: 60%;
+    width: 100%;
+}
+#contForm{
+    color: #ffffff;
+    background-color: rgb(32, 11, 33);
+}
+#newp{
+    color: #ffffff;
+}
+#pAbout{
+    font-size: 34px;
+    color: rgb(17, 59, 23);
+    background-color: white;
+
+}
+#hAbout{
+    color: rgb(254, 252, 255);
+    background-color: rgb(61, 14, 63);
+    
+}
+#imgAbout{
+    height :1000px;
+    width:35%;
+    float: right;
+    position: relative;
+    margin: 0 0 10px 10px;
+     padding-left: 15px;
+      padding-top: 0px;
+     padding-bottom: 25px"
+}
+#AboutBody{
+    background-color:white;
+    color: black;
+}
